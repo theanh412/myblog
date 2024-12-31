@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TheAnh</title>
+    <link href="https://theanh412.github.io/myblog/feed.xml" rel="self" />
+    <link href="https://theanh412.github.io/myblog" />
+    <updated>2024-12-31T21:41:18+07:00</updated>
+    <author>
+        <name>TheAnh</name>
+    </author>
+    <id>https://theanh412.github.io/myblog</id>
+
+    <entry>
+        <title>Certificate: JavaScript Essentials 2</title>
+        <author>
+            <name>TheAnh</name>
+        </author>
+        <link href="https://theanh412.github.io/myblog/certificate-javascript-essentials-2.html"/>
+        <id>https://theanh412.github.io/myblog/certificate-javascript-essentials-2.html</id>
+            <category term="Certificate"/>
+
+        <updated>2024-12-31T19:58:59+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://theanh412.github.io/myblog/media/posts/13/java2.png" alt="" width="991" height="765" sizes="(max-width: 48em) 100vw, 768px" srcset="https://theanh412.github.io/myblog/media/posts/13/responsive/java2-xs.png 300w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-sm.png 480w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-md.png 768w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-lg.png 1024w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-xl.png 1360w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Certificate: JavaScript Essential 1</title>
+        <author>
+            <name>TheAnh</name>
+        </author>
+        <link href="https://theanh412.github.io/myblog/certificate-javascript-essential-1.html"/>
+        <id>https://theanh412.github.io/myblog/certificate-javascript-essential-1.html</id>
+            <category term="Certificate"/>
+
+        <updated>2024-12-31T19:38:56+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://theanh412.github.io/myblog/media/posts/12/JAVA-1.png" alt="" width="742" height="573" sizes="(max-width: 48em) 100vw, 768px" srcset="https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-xs.png 300w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-sm.png 480w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-md.png 768w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-lg.png 1024w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-xl.png 1360w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Certificate:  Networking Basics    </title>
+        <author>
+            <name>TheAnh</name>
+        </author>
+        <link href="https://theanh412.github.io/myblog/certificate-networking-basics.html"/>
+        <id>https://theanh412.github.io/myblog/certificate-networking-basics.html</id>
+            <category term="Certificate"/>
+
+        <updated>2024-12-31T19:31:35+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://theanh412.github.io/myblog/media/posts/11/net-2.png" alt="" width="988" height="762" sizes="(max-width: 48em) 100vw, 768px" srcset="https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-xs.png 300w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-sm.png 480w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-md.png 768w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-lg.png 1024w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-xl.png 1360w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

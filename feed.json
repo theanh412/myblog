@@ -1,0 +1,56 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TheAnh",
+    "description": "",
+    "home_page_url": "https://theanh412.github.io/myblog",
+    "feed_url": "https://theanh412.github.io/myblog/feed.json",
+    "user_comment": "",
+    "icon": "https://theanh412.github.io/myblog/media/website/xoa.png",
+    "author": {
+        "name": "TheAnh"
+    },
+    "items": [
+        {
+            "id": "https://theanh412.github.io/myblog/certificate-javascript-essentials-2.html",
+            "url": "https://theanh412.github.io/myblog/certificate-javascript-essentials-2.html",
+            "title": "Certificate: JavaScript Essentials 2",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://theanh412.github.io/myblog/media/posts/13/java2.png\" alt=\"\" width=\"991\" height=\"765\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://theanh412.github.io/myblog/media/posts/13/responsive/java2-xs.png 300w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-sm.png 480w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-md.png 768w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-lg.png 1024w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-xl.png 1360w ,https://theanh412.github.io/myblog/media/posts/13/responsive/java2-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "TheAnh"
+            },
+            "tags": [
+                   "Certificate"
+            ],
+            "date_published": "2024-12-31T19:58:59+07:00",
+            "date_modified": "2024-12-31T21:41:13+07:00"
+        },
+        {
+            "id": "https://theanh412.github.io/myblog/certificate-javascript-essential-1.html",
+            "url": "https://theanh412.github.io/myblog/certificate-javascript-essential-1.html",
+            "title": "Certificate: JavaScript Essential 1",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://theanh412.github.io/myblog/media/posts/12/JAVA-1.png\" alt=\"\" width=\"742\" height=\"573\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-xs.png 300w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-sm.png 480w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-md.png 768w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-lg.png 1024w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-xl.png 1360w ,https://theanh412.github.io/myblog/media/posts/12/responsive/JAVA-1-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "TheAnh"
+            },
+            "tags": [
+                   "Certificate"
+            ],
+            "date_published": "2024-12-31T19:38:56+07:00",
+            "date_modified": "2024-12-31T21:41:08+07:00"
+        },
+        {
+            "id": "https://theanh412.github.io/myblog/certificate-networking-basics.html",
+            "url": "https://theanh412.github.io/myblog/certificate-networking-basics.html",
+            "title": "Certificate:  Networking Basics    ",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://theanh412.github.io/myblog/media/posts/11/net-2.png\" alt=\"\" width=\"988\" height=\"762\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-xs.png 300w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-sm.png 480w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-md.png 768w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-lg.png 1024w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-xl.png 1360w ,https://theanh412.github.io/myblog/media/posts/11/responsive/net-2-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "TheAnh"
+            },
+            "tags": [
+                   "Certificate"
+            ],
+            "date_published": "2024-12-31T19:31:35+07:00",
+            "date_modified": "2024-12-31T21:41:18+07:00"
+        }
+    ]
+}
